@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Information</string>
+    <string name="full_name">Maria Gingul</string>
+    <string name="title">Student</string>
+    <string name="phone">+7 908 953 67 79</string>
+    <string name="social">marusyagzl\@gmail.com</string>
+    <string name="email">marusyagzl@gmail.com</string>
+</resources>
